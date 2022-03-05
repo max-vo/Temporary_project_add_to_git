@@ -2,4 +2,5 @@
 test_sample = sample(1:6, 1000, replace = TRUE)
 #plot as bars 
 barplot(table(test_sample))
-
+#calculate variance
+var
